@@ -1,0 +1,12 @@
+{
+  "name": "bug-clinic",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "loadnvm": "loadnvm"
+  },
+  "dependencies": {
+    "standard": "^11.0.1"
+  }
+}
